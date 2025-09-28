@@ -6,4 +6,5 @@ just nu, men de är fortfarande viktiga komponenter som jag vill ha med. De priv
 men skulle de skrivits ut så skulle jag ha valt encapsulation på dem.
 Jag har skrivit förklaring av minna steg i koden så att man skall kunna förstå den lätt.
 
-Ha en bra dag, Ann
+Ha en bra dag, 
+Ann
